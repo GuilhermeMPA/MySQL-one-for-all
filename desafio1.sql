@@ -115,7 +115,7 @@ INSERT INTO cancoes(cancao, album_id, duracao_segundos) VALUES
 ('Without My Love', 6, 111),
 ('Walking And Game', 6, 123),
 ('Young And Father', 6, 197),
-('Finding My Traditions', 7, 197),
+('Finding My Traditions', 7, 179),
 ('Walking And Man', 7, 229),
 ('Hard And Time', 7, 135),
 ("Honey, I'm A Lone Wolf", 7, 150),
